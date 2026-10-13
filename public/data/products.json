@@ -1,0 +1,37 @@
+[
+    {
+        "kode": 1,
+        "harga":10000,
+        "nama": "Robot K9.1",
+        "gambar": "/image/k9.png",
+        "qty" : 15000
+    },
+    {
+        "kode": 2,
+        "harga": 20000,
+        "nama": "Robot K9.2",
+        "gambar": "/image/k9.png",
+        "qty" : 25000
+    },
+    {
+        "kode": 3,
+        "harga": 30000,
+        "nama":"Robot K9.3",
+        "gambar": "/image/k9.png",
+        "qty" : 35000
+    },
+    {
+        "kode": 4,
+        "harga": 40000,
+        "nama": "Robot K9.4",
+        "gambar": "/image/k9.png",
+        "qty" : 35000
+    },
+    {
+        "kode": 5,
+        "harga": 50000,
+        "nama":" Robot K9.5",
+        "gambar": "/image/k9.png",
+        "qty" : 35000
+    }
+]
